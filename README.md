@@ -54,4 +54,3 @@ npm run build
 ## Known Limitations
 
 - Newly added projects are stored in React state only, so they reset when the page reloads.
-- The Google Drive mock-up was not directly accessible from this environment, so the app follows the screenshot/wireframe style rather than matching every pixel.
